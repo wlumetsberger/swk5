@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyCalculator.Wpf.Code", "CurrencyCalculator.Wpf.Code\CurrencyCalculator.Wpf.Code.csproj", "{49FB55A1-4D9D-4E8F-8112-CA706E0470BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyCalculator.BL", "CurrencyCalculator.BL\CurrencyCalculator.BL.csproj", "{6BA9FDE4-1A96-4EC0-BDEF-9F821485C81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyCalculator.Wpf.Xaml", "CurrencyCalculator.Wpf.Xaml\CurrencyCalculator.Wpf.Xaml.csproj", "{139A270C-8C62-488E-91C9-1D463DDEA94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FB55A1-4D9D-4E8F-8112-CA706E0470BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FB55A1-4D9D-4E8F-8112-CA706E0470BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FB55A1-4D9D-4E8F-8112-CA706E0470BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FB55A1-4D9D-4E8F-8112-CA706E0470BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA9FDE4-1A96-4EC0-BDEF-9F821485C81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA9FDE4-1A96-4EC0-BDEF-9F821485C81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA9FDE4-1A96-4EC0-BDEF-9F821485C81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA9FDE4-1A96-4EC0-BDEF-9F821485C81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139A270C-8C62-488E-91C9-1D463DDEA94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139A270C-8C62-488E-91C9-1D463DDEA94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139A270C-8C62-488E-91C9-1D463DDEA94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139A270C-8C62-488E-91C9-1D463DDEA94C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
